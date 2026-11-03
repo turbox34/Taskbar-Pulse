@@ -1,7 +1,7 @@
 # ⚡ Taskbar Pulse
 
 <p align="center">
-  <img src="app_icon.ico" alt="Taskbar Pulse Logo" width="96" height="96">
+  <img src="assets/logo.png" alt="Taskbar Pulse Logo" width="128" height="128">
 </p>
 
 <p align="center">
@@ -17,7 +17,12 @@
   <img src="https://img.shields.io/badge/Release-v1.0.0-blue" alt="Release">
 </p>
 
+<p align="center">
+  <img src="assets/preview.png" alt="Taskbar Pulse Preview" width="800">
+</p>
+
 ---
+
 
 ## 📌 Overview
 
